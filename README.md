@@ -10,7 +10,7 @@ GroupBy Used (groupby used to determine purchase analysis(gender), purchasing an
 
 Cut Method Used to Create New Series of Binned Data (cut and binned correctly for both: age demographics and purchasing analysis(age)
 
-Written Report (presented a cohesive written analysis that draw theree correct conclusions from the data)
+Written Report (presented a cohesive written analysis that draws three correct conclusions from the data)
 
 
 Jupyter Notebook, Pandas 
