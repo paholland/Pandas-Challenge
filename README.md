@@ -13,5 +13,5 @@ Cut Method Used to Create New Series of Binned Data (cut and binned correctly fo
 Written Report (presented a cohesive written analysis that draws three correct conclusions from the data)
 
 
-Jupyter Notebook, Pandas 
+### Jupyter Notebook, Pandas 
 
